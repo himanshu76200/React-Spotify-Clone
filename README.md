@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# REACT SPOTIFY CLONE USING SPOTIFY DEVELOPERS APIs
+
+DO CHECKOUT DEPLOYMENT - https://spotify-clone-76200.web.app/#
+
+![image](https://user-images.githubusercontent.com/62508572/113754861-4ca2eb00-972d-11eb-8823-6913690cdbf3.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
