@@ -51,7 +51,7 @@ function App() {
 
     }
     // console.log>>>>>>> ", _token);
-  }, []);
+  }, [token, dispatch]);
 
   console.log("user >>>>>>>> ", user);
   console.log("token >>>>>>>>>>>> ", token);
